@@ -1,8 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template
+# Tiny Tapeout Wokwi Project Template (Edited)
 
-- [Read the documentation for project](docs/info.md)
+Edited by John Daryl Ugaban. Used for the TinyTapeout IC Design Bootcamp.
 
 ## What is Tiny Tapeout?
 
